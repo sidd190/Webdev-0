@@ -1,0 +1,51 @@
+.name{
+  display: block;
+}
+.bp{
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.cimg{
+  width:200px;
+  margin-left: 200px;
+}
+.cs{
+  margin-left: 160px;
+  border: none;
+  width: 290px;
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.outer{
+  display: inline-block;
+  margin-left: 10px;
+}
+.inner{
+  display: inline-block;
+  vertical-align: middle;
+}
+.pfp{
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+}
+.aliens{
+  width: 150px;
+}
+.addfrnd{
+  color: white;
+  background-color: rgb(0, 136, 255);
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  margin: 10px;
+}
+.info{
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.4);
+}
